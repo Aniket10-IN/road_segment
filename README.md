@@ -25,4 +25,6 @@ The U-Net model used consists of an encoder-decoder structure:
 Encoder: Extracts features using convolutional layers.
 Decoder: Reconstructs the image while retaining the location information.
 
+### Lets test it from test dataset
+![Screenshot from 2024-07-22 09-46-31](https://github.com/user-attachments/assets/1a8d79db-930e-423f-b10e-e6700d2db090)
 
