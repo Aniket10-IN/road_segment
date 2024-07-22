@@ -28,6 +28,4 @@ Decoder: Reconstructs the image while retaining the location information.
 ### Lets test it from test dataset
 ![Screenshot from 2024-07-22 09-46-31](https://github.com/user-attachments/assets/1a8d79db-930e-423f-b10e-e6700d2db090)
 
-![Screenshot from 2024-07-22 09-46-31](https://github.com/user-attachments/assets/ed4f8fdd-3dc2-4c63-840f-a74ca432fcc9)
-
 
